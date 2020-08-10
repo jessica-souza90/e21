@@ -59,3 +59,7 @@ ng serve --open
 
 Este comando abriu seu browser, já com uma demo para seu novo projeto em Angular, agora iremos codificar em aula.
 Caso seus sitema não seja aberto automaticamente, pode ter havido algum erro, mas primeiro tente acessar manualmente o endereço [http://localhost:4200/](http://localhost:4200/).
+
+## Treino em Java
+
+Você pode treinar Java através desse link: https://www.w3schools.com/java/default.asp
