@@ -1,0 +1,17 @@
+Exercício 1
+Mostre tudo o que sabe, levante suas duvidas.
+Ou...
+Caso não consiga fazer o exercício justifique.
+ 
+Demonstre seus conhecimentos em:
+Scanner de dados;
+Operações;
+Seleção;
+Ternário;
+Loop 'While' ou 'Do While';
+ 
+Comente todas as linhas que conseguir;
+Levante todas as duvidas que for preciso;
+ 
+Envie seu arquivo .java para:
+nicealuno@gmail.com
