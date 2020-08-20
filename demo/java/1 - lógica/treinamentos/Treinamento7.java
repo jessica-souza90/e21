@@ -22,20 +22,15 @@ public class Treinamento7 {
 			System.out.println("Valor 1 com numero um");
 			System.out.println("Valor 2 com numero um");
 		} else {//caso o teste acima seja falso, executa esse conteudo
-			System.out.println("Valor 1 com qualquer numero");
-			System.out.println("Valor 2 com qualquer numero");
-			System.out.println("qualquer numero");
+			System.out.println("Valor 1 e Valor 2 com qualquer numero, ou apenas com um dos testes verdadeiros");
 		}
 		
 		if(valor1 == 1 || valor2 == 1) {//|| liga testes, ou seja (teste1 || teste2),
 		//um dos teste deve ser verdadeiro, false || true,
 		//para executar esse conteudo
-			System.out.println("Valor 1 com numero um");
-			System.out.println("Valor 2 com numero um");
+			System.out.println("Valor 1 ou Valor 2 com numero um");
 		} else {//caso o teste acima seja falso, executa esse conteudo
-			System.out.println("Valor 1 com qualquer numero");
-			System.out.println("Valor 2 com qualquer numero");
-			System.out.println("qualquer numero");
+			System.out.println("Valor 1 ou Valor 2 com qualquer numero");
 		}
 
 		//true && true = true
